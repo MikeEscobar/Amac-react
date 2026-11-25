@@ -76,7 +76,7 @@ img {
 
 /* 
   Foco visible al navegar con la tecla Tab. 
-  Obligatorio para no perder el rastro del teclado
+  Obligatorio para no perder el rastro del teclado */
 :focus-visible {
   outline: 3px solid var(--color-acento);
   outline-offset: 3px;
